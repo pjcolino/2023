@@ -1,0 +1,19 @@
+{
+  "name": "0.0.1",
+  "version": "0.0.2",
+  "description": "Attendence server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjcolino/2023.git"
+  },
+  "author": "TIO. P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjcolino/2023/issues"
+  },
+  "homepage": "https://github.com/pjcolino/2023#readme"
+}
